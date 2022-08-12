@@ -5,7 +5,6 @@
 - 👀 I’m interested in game development
 - 🔭 I’m currently working on creating online game
 - 🌱 I’m currently learning to develop mod for games
-- 💬 Ask me about anything, and im here to help out or talk to.
 - ⚡ Fun fact: I love 🐈 and reptile
 
 <div align="center">
@@ -16,6 +15,7 @@
 aftersave/aftersave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
+- 💬 Ask me about anything, and im here to help out or talk to.
 - 👯 I’m looking forward to these next few years, and see where it goes.
 - 🤔 I’m also looking for help on more (example) work, so let me know if you can help out.
 
